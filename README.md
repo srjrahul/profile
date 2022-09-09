@@ -1,14 +1,14 @@
-Hi👋, I am Rahul Singh
+# Hi👋, I am Rahul Singh
 <br>
 
 
 - 👀 Interested in **Data Science, Data Analysis, Customers Experiences, Marketing, E-sports**
  
-- 📝 Recently learned and skilled up with Python, SQL, Excel, Power BI
+- 📝 Recently skilled up Python, Excel, Power BI, SQL and Statics 
 
 - 🌱 Recently completed a **16-week full-time Data Science and Machine Learning Immersive Bootcamp**
 
-- 👨‍💻 All of my **projects** are available at [https://github.com/srjrahul](https://github.com/srjrahul)
+- 👨‍💻 All of my **projects** are available at [https://github.com/srjrahul](https://github.com/)
 
 - 💬 Reach me at **rs093043@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/rahul-singh-rs120/)**
 
@@ -21,7 +21,7 @@ Hi👋, I am Rahul Singh
 
 
 <!---
-srjrahul/profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+srjrahul/srjrahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <br>
