@@ -19,7 +19,7 @@ Looking for an opportunity that allows me to give full play to my skills
 <br>
 <br>
 
-srjrahul/srjrahul
+
 <!---
 srjrahul/srjrahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
