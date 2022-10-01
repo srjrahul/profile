@@ -2,11 +2,11 @@
 <br>
 
 
-- 👀 Interested in **Data Science, Data Analysis, Customers Experiences, Marketing, E-sports**
+- 👀 Interested in ** Data Analysis, Customers Experiences, Marketing, E-sports**
  
-- 📝 Recently skilled up Python, Excel, Power BI, SQL and Statics 
+- 📝 Recently skilled up Python, Excel, Power BI, SQL and Statistcs 
 
-- 🌱 Recently completed a **16-week full-time Data Science and Machine Learning Immersive Bootcamp**
+- 🌱 Recently completed a **16-week full-time Data Analyst Bootcamp**
 
 - 👨‍💻 All of my **projects** are available at [https://github.com/srjrahul](https://github.com/)
 
