@@ -2,7 +2,7 @@
 <br>
 
 
-- 👀 Interested in ** Data Analysis, Customers Experiences, Marketing, E-sports**
+- 👀 Interested in **Data Analysis, Customers Experiences, Marketing, E-sports**
  
 - 📝 Recently skilled up Python, Excel, Power BI, SQL and Statistcs 
 
