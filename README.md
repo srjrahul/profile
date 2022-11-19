@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my **projects** are available at [https://github.com/srjrahul](https://github.com/)
 
-- 💬 Reach me at **rs093043@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/rahul-singh-rs120/)**
+- 💬 Reach me at **srjrahul120@outlook.com** or **[LinkedIn](https://www.linkedin.com/in/rahul-singh-rs120/)**
 
 <br>
 
