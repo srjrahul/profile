@@ -4,9 +4,7 @@
 
 - 👀 Interested in **Data Analysis, Customers Experiences, Marketing, E-sports**
  
-- 📝 Recently skilled up Python, Excel, Power BI, SQL and Statistcs 
-
-- 🌱 Recently completed a **16-week full-time Data Analyst Bootcamp**
+- 📝 Skilled up Python, Excel, Power BI, Web Scraping(beautifulsoup, selenium, scrapy), SQL and Statistcs 
 
 - 👨‍💻 All of my **projects** are available at [https://github.com/srjrahul](https://github.com/)
 
